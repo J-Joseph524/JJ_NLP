@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
+True.csv
+Fake.csv
+news.zip
 
 # Distribution / packaging
 .Python
