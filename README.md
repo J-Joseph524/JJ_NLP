@@ -8,7 +8,7 @@ https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
 
 ## Objective:
  
-To build a model to accurately classify a piece of news as Real(1) or Fake(0).
+To build a model to accurately classify a politcal article of news as Real(1) or Fake(0).
 
 ## The Dataset:
 
@@ -35,7 +35,7 @@ Two separate notebooks were posted on GitHub. One was the Final Project notebook
 
 ## How the Data Was Put Together:
 
-The data was gathered from about 44,000 different news articles from the Data Flair website. Following that, the data was preprocessed & cleaned in order to put into the various different models. Next, EDA's were performed to visualize the different word frequencies after the data was vectorized & the stop words were set. Finally, the data was run through grid searches & cross validations in order to determine the best model to predict if a news article was fake or not.
+The data was gathered from about 44,000 different political news articles from the Data Flair website. Following that, the data was preprocessed & cleaned in order to put into the various different models. Next, EDA's were performed to visualize the different word frequencies after the data was vectorized & the stop words were set. Finally, the data was run through grid searches & cross validations in order to determine the best model to predict if a news article was fake or not.
 
 ## Models:
 
@@ -43,8 +43,8 @@ For this project, two different vectorizing techniques were implemented & tested
 
 ## Future Steps:
 
-* To use the advanced NLP library, spaCy, in order to build an application that processes and “understands” large volumes of text(long news articles).
-* Using an RNN Model to more accurately predict news articles being Real or Fake.
+* To create a front end application that takes in the URL of a political news article and outputs whether it is fake or not.
+* Using spaCy to incorporate more word embedding models.
 
 ## Conclusion:
 
