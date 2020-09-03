@@ -1,4 +1,4 @@
-# JJ_NLP
+# Real_or_Fake_News
 
 
 ## Introduction:
