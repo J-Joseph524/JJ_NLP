@@ -8,7 +8,7 @@ https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
 
 ## Objective:
  
-To build a model to accurately classify a politcal article of news as Real(1) or Fake(0).
+To build a model to accurately classify a political article of news as Real(1) or Fake(0).
 
 ## The Dataset:
 
